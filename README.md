@@ -1,4 +1,4 @@
-### ⚡ Developing high quality pastes ⚡
+### ⚡ developing high quality pastes ⚡
 
 <!--
 **jancrypto/jancrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
